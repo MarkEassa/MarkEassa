@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MarkEassa
+- 👀 I’m interested in the Cyber Security domain
+- 🌱 I’m currently learning Penetration testing fundamentals
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me email: mark.eassa@gmail.com
